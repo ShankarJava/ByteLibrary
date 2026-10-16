@@ -5,5 +5,5 @@
  * 
  */
 module ByteLibrary {
-	
+	//
 }
