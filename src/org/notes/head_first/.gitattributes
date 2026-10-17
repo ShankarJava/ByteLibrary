@@ -1,0 +1,2 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+C:/Users/Dell/Desktop/ByteLibrary/src/org/notes/head_first/Head[[:space:]]First[[:space:]]Python[[:space:]]2nd[[:space:]]Edition.pdf filter=lfs diff=lfs merge=lfs -text
